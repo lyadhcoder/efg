@@ -841,7 +841,7 @@ html {
 }
 
 .carosal_bottom {
-    background-image: url(img/carosal_bottom_bg.jpg);
+    background-image: url(./img/carosal_bottom_bg.jpg);
     background-size: 100% 100%;
     height: 575px;
 }
